@@ -1,0 +1,9 @@
+patronesdediseño.ZZZ
+patronesdediseño.M5able
+patronesdediseño.X2C
+patronesdediseño.PatronesDeDiseño
+patronesdediseño.XC
+patronesdediseño.YC
+patronesdediseño.YH
+patronesdediseño.X
+patronesdediseño.XH
